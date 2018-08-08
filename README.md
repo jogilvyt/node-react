@@ -1,0 +1,1 @@
+# This is the repository for an example full stack React/Node application.
